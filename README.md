@@ -13,6 +13,8 @@ Weighted Rating (WR) = (v/v+m.R)+(m/v+m.C)
 
 
 
+step -0- .quantile() for calculate percentile 
+
 
 step -1- Define a TF-IDF(Term Frequency-Inverse Document Frequency)  Vectorizer Object. Remove all english stop words such as 'the', 'a'
 
