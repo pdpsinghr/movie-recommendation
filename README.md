@@ -32,4 +32,6 @@ Weighted Rating (WR) = (vv+m.R)+(mv+m.C)
 
 1- movie recomandation using rating
 
+![alert](https://github.com/pdpsinghr/movie-recommendation/blob/master/result/Screenshot%20from%202018-07-24%2021-27-54.png)
+
 2- content based movie recomandation
